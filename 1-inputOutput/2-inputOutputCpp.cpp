@@ -12,6 +12,12 @@ int main() {
     cin >> n;
     cout << "You entered: " << n << endl;
 
+    int a, b, c;
+    cout << "Enter three integer values separated by spaces: " << endl;
+    cin >> a >> b >> c;
+    cout << "You entered: " << a << " " << b << " " << c << endl;
+
     return 0;
+
 }
 
